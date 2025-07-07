@@ -1,2 +1,2 @@
 # apnacollege.demo
-this is my first repsitpry
+This is my first Repository 
